@@ -1,0 +1,9 @@
+body {
+  background-color: white;
+  height: 100vh;
+  transition: background-color 0.5s ease;
+}
+
+.la-plateforme {
+  background-color: #0015ffbc;
+}

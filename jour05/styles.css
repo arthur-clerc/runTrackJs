@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+
+header .navbar {
+  display: flex;
+  justify-content: end;
+  width: 100%;
+  background-color: rgb(39, 107, 84);
+  margin-bottom: 2rem;
+}
+
+header .navbar .navBarUl {
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+}
+
+header .navbar ul li {
+  list-style: none;
+}
+
+header .navbar ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+section form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 40rem;
+}
+
+section form .divInput {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 7rem;
+}

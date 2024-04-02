@@ -1,0 +1,10 @@
+#container {
+  display: flex;
+  height: 25rem;
+  width: 100%;
+  border: solid 0.1rem black;
+}
+
+.shuffle {
+  display: flex;
+}
