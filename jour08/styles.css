@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "super-positive";
+  src: url("font/superpositive.woff2") format("woff2"),
+    url("font/superpositive.woff") format("woff");
+}
+
+body header nav ul li {
+  font-family: "super-positive";
+}
