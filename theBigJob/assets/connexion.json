@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "compte": {
+      "prenom": "arthur",
+      "nom": "clerc",
+      "email": "arthur.clerc@laplateforme.io",
+      "password": "Bulbizarre",
+      "roles": "admin"
+    }
+  },
+  {
+    "id": 2,
+    "compte": {
+      "prenom": "unmec",
+      "nom": "dusud",
+      "email": "unmec.dusud@laplateforme.io",
+      "password": "MotDePasse",
+      "roles": "utilisateur"
+    }
+  }
+]
